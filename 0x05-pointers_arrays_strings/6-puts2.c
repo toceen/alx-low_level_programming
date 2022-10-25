@@ -4,7 +4,8 @@
  * puts2 - prints one characrter out of two
  * @str: input
  * Return: print
- */void put2(char *str)
+ */
+void put2(char *str)
 {
 	int i = 0;
 
