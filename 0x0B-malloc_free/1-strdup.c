@@ -39,10 +39,10 @@ char *_strcpy(char *dest, char *src)
 	return (dest);
 
 /**
-*_strdup - array for prints a string
-*@str: array of elements
-*Return: pointer
-*/
+ * _strdup - array for prints a string
+ * @str: array of elements
+ * Return: pointer
+ */
 
 char *_strdup(char *str)
 {
